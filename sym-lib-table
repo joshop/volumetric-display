@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 0)
+  (lib (name "zero-tiny-ble-eagle-import")(type "KiCad")(uri "${KIPRJMOD}/zero-tiny-ble-eagle-import.kicad_sym")(options "")(descr ""))
+)
